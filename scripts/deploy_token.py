@@ -1,4 +1,4 @@
-from brownie import SampleToken, accounts, config, network
+from brownie import SampleToken, config, network
 
 from scripts.helpful_scripts import get_account
 
